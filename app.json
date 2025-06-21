@@ -1,8 +1,8 @@
 {
-  "name": "ROVER-XMD",
-  "description": "Javascript WhatsApp bot made ɢᴏᴛᴀʀ ᴛᴇᴄʜ",
+  "name": "OXYGEN-XMD",
+  "description": "Javascript WhatsApp bot made OXYGEN ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/vg9llc.jpg",
-  "keywords": ["ROVER-XMD"],
+  "keywords": ["OXYGEN-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ROVER-XMD"
+      "value": "OXYGEN-XMD"
     }, 
       
     "PREFIX": {
